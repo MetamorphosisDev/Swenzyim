@@ -18,7 +18,7 @@
 
 ## Technologies I use
 
-<img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,react,nodejs,express,mysql,mongodb&perline=7">
+<img width="40%" align="center" src="https://skillicons.dev/icons?i=js,html,react,nodejs,express,python,mongodb&perline=7">
 
 ## My Stats
 ![](https://github-readme-stats.vercel.app/api?username=swenzyim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
