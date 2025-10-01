@@ -9,11 +9,11 @@
   
 ## About Me
 
-
+<semp>
 • Let me introduce myself, I'm Swenzy. I'm 17 years old. I'm a versatile developer with a deep passion for all aspects of software. Every day I develop more and more with new ideas and new projects<br /><br />
 
 • You Should Come By [Here](https://discord.gg/excode) <br />
-
+<semp>
 
 ## Technologies I use
 
